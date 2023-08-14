@@ -13,10 +13,10 @@ const Nav = () => {
           </label>
           <ul tabIndex={0} className="menu menu-sm dropdown-content mt-3 z-[1] p-2 shadow bg-base-100 rounded-box w-52">
             <li>
-              <a>Item 1</a>
+              <Link href="/">Home</Link>
             </li>
             <li>
-              <a>Item 3</a>
+              <Link href="/Blog">Blog</Link>
             </li>
           </ul>
         </div>
