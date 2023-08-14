@@ -12,8 +12,8 @@
 npm run dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Locally: [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-Live Website [http://localhost:3000](http://localhost:3000)
+Live Website: [http://localhost:3000](BlogWebsite)
 
 ## Site Details
